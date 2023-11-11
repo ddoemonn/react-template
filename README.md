@@ -9,6 +9,8 @@ This template provides a solid foundation for React projects, incorporating powe
 - **Babel:** Write modern JavaScript and let Babel transpile it for compatibility with various browsers.
 - **TypeScript:** Enjoy the benefits of static typing and catch errors during development.
 - **Tailwind CSS:** Quickly style your components with Tailwind's utility-first CSS framework.
+- **Jest:** Unit test your components with Jest for a robust testing environment.
+- **Dotenv:** Manage your environment variables easily with Dotenv.
 
 ## Getting Started:
 
